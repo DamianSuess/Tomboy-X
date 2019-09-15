@@ -10,9 +10,10 @@ We use GitHub to store sources and track bugs, see [Tomboy-X](https://github.com
 
 Tomboy is licensed under the LGPL, see [COPYING](./COPYING) for more details.
 
+# Building
 ## Requirements
 * .NET 4.0 or newer
-* Gtk# for .NET 2.12.21
+* [Gtk#](https://www.mono-project.com/download/stable/) for .NET 2.12.21
 * Gtk+ 2.x (not required for build, but you will get a run-time error without it)
 
 ---
