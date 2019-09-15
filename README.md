@@ -1,21 +1,19 @@
-### Tomboy 
+### Tomboy
 
-Copyright (C) 2004-2007 Alex Graveley <alex@beatniksoftware.com>
+Copyright (C) 2004-2007 Alex Graveley <alex@beatniksoftware.com><br />
+Copyright (C) 2004-2017 Others<br />
+Copyright (C) 2019 Xeno Innovations, Inc.<br />
 
-Copyright (C) 2004-2017 Others
+**Tomboy-X** is a fork of the original [Tomboy](https://wiki.gnome.org/Apps/Tomboy).
 
-**Please note that this repo is for the previous generation of Tomboy, which is no longer actively developed.**  
-**See [Tomboy-NG](https://github.com/tomboy-notes/tomboy-ng) for current activities.**
-
-The Tomboy homepage is located [here](https://wiki.gnome.org/Apps/Tomboy).
-
-We use GitHub to store sources and track bugs, see [Tomboy](https://github.com/tomboy-notes/tomboy).
-
-If you're interested in discussing Tomboy, please consider our mailing list.
-To subscribe, visit [here](http://lists.beatniksoftware.com/listinfo.cgi/tomboy-list-beatniksoftware.com)
-or just send your questions and suggestions to <tomboy-list@beatniksoftware.com>.
+We use GitHub to store sources and track bugs, see [Tomboy-X](https://github.com/DamianSuess/Tomboy-X).
 
 Tomboy is licensed under the LGPL, see [COPYING](./COPYING) for more details.
+
+## Requirements
+* .NET 4.0 or newer
+* Gtk# for .NET 2.12.21
+* Gtk+ 2.x (not required for build, but you will get a run-time error without it)
 
 ---
 
